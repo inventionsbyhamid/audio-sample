@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "Post 1",
-      "auido_url": "https://anonfile.com/P91f6f69n2/file_example_MP3_700KB_mp3"
+      "audio_url": "https://cdn-17.anonfile.com/P91f6f69n2/a79f0d76-1569308663/file_example_MP3_700KB.mp3"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "auido_url": "https://anonfile.com/P91f6f69n2/file_example_MP3_700KB_mp3"
+      "audio_url": "https://cdn-17.anonfile.com/P91f6f69n2/a79f0d76-1569308663/file_example_MP3_700KB.mp3"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "auido_url": "https://anonfile.com/P91f6f69n2/file_example_MP3_700KB_mp3"
+      "audio_url": "https://cdn-17.anonfile.com/P91f6f69n2/a79f0d76-1569308663/file_example_MP3_700KB.mp3"
     }
   ]
 }
