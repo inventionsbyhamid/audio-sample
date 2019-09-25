@@ -3,17 +3,20 @@
     {
       "id": 1,
       "title": "Post 1",
-      "audio_url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3"
+      "audio_url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3",
+      "image_url": "http://www.imagemagick.org/Usage/canvas/gradient_bilinear.jpg"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "audio_url": "https://ccrma.stanford.edu/~jos/mp3/gtr-nylon22.mp3"
+      "audio_url": "https://ccrma.stanford.edu/~jos/mp3/gtr-nylon22.mp3",
+      "image_url": "http://www.clker.com/cliparts/R/S/Z/4/t/f/crossed-hammers-bw-100x100-md.png"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "audio_url": "https://ccrma.stanford.edu/~jos/mp3/pno-cs.mp3"
+      "audio_url": "https://ccrma.stanford.edu/~jos/mp3/pno-cs.mp3",
+      "image_url": "http://www.imagemagick.org/Usage/canvas/gradient_bilinear.jpg"
     }
   ]
 }
